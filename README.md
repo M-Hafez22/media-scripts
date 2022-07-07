@@ -31,3 +31,15 @@ sudo pacman -S youtube-dl
 ```sh
 sudo xbps-install   -Sy youtube-dl 
 ```
+
+## Duration
+
+- calc-duration Requires two input:
+  - first **directory**
+  - second media file **extension**.
+
+example:
+
+```sh
+media-scripts/Duration/calc-duration.sh ./ mp3 
+```
