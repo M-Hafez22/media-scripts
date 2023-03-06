@@ -20,6 +20,12 @@ sudo apt install youtube-dl yt-dlp
 sudo dnf install youtube-dl yt-dlp
 ```
 
+- In OpenSUSE
+
+```sh
+ sudo zypper install youtube-dl yt-dlp
+```
+
 - In Arch:
 
 ```sh
