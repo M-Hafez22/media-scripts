@@ -11,25 +11,25 @@ Scripts for media. Downloading & calculate the duration
 - In Debian:
 
 ```sh
-sudo apt install youtube-dl
+sudo apt install youtube-dl yt-dlp
 ```
 
 - In Fedora:
 
 ```sh
-sudo dnf install youtube-dl
+sudo dnf install youtube-dl yt-dlp
 ```
 
 - In Arch:
 
 ```sh
-sudo pacman -S youtube-dl
+sudo pacman -S youtube-dl yt-dlp
 ```
 
 - In Void Linux:
 
 ```sh
-sudo xbps-install   -Sy youtube-dl 
+sudo xbps-install   -Sy youtube-dl yt-dlp 
 ```
 
 ## Duration
