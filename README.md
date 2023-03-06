@@ -6,7 +6,7 @@ Scripts for media. Downloading & calculate the duration
 
 > The Download is powered by youtube-dl
 
-### Install youtube-dl:
+### Install youtube-dl
 
 - In Debian:
 
