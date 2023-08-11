@@ -6,7 +6,7 @@ mkdir Music || true
 cd ~/Music
 
 # Downlaod Audio playlist
-yt-dlp   -x --embed-thumbnail --audio-format mp3 -o "%(playlist_index)s- %(title)s.%(ext)s"   $1
+yt-dlp -f 'ba' -x --embed-thumbnail --audio-format mp3 -o "%(playlist_index)s- %(title)s.%(ext)s" $1
 
 # Success message
 printf "\e[1;34m Download is Done \e[0m\n\n"
